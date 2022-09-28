@@ -7,3 +7,7 @@ function myFunction(myString) {
         return "of queens"
     }
 }
+
+function counter(myInt) {
+    return myInt + 1;
+}
