@@ -3,5 +3,7 @@ function myFunction(myString) {
         return "polo"
     } else if (myString == "peanut butter") {
         return "jelly"
+    } else if (myString == "king") {
+        return "of queens"
     }
 }
